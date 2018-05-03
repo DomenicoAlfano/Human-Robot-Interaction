@@ -1,0 +1,6 @@
+/Users/domenicoalfano/Master/Elective/First_part/full_project/downward/builds/release32/CMakeFiles/rebuild_cache.dir
+/Users/domenicoalfano/Master/Elective/First_part/full_project/downward/builds/release32/CMakeFiles/edit_cache.dir
+/Users/domenicoalfano/Master/Elective/First_part/full_project/downward/builds/release32/CMakeFiles/translate.dir
+/Users/domenicoalfano/Master/Elective/First_part/full_project/downward/builds/release32/search/CMakeFiles/rebuild_cache.dir
+/Users/domenicoalfano/Master/Elective/First_part/full_project/downward/builds/release32/search/CMakeFiles/edit_cache.dir
+/Users/domenicoalfano/Master/Elective/First_part/full_project/downward/builds/release32/search/CMakeFiles/downward.dir
